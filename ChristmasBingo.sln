@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristmasBingo", "ChristmasBingo\ChristmasBingo.csproj", "{0F8635D1-F87B-4F40-B0E8-230B8D3AA9BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F8635D1-F87B-4F40-B0E8-230B8D3AA9BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8635D1-F87B-4F40-B0E8-230B8D3AA9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8635D1-F87B-4F40-B0E8-230B8D3AA9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8635D1-F87B-4F40-B0E8-230B8D3AA9BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7B5C8AB-CCA5-480F-9A41-505DAE394372}
+	EndGlobalSection
+EndGlobal
